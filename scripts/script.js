@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  [
+  const dataEntry =[
   {
     "id": 1,
     "title": "Complete Dev-George Project",
@@ -33,4 +33,5 @@ $(document).ready(function () {
     "completed": true
   }
 ]
+  console.log(dataEntry);
 }
