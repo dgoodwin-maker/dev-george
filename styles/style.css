@@ -1,0 +1,90 @@
+body {
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 1.5rem;
+  background-color: #fff;
+  color: #0d6efd;
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.card {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border: none;
+  margin-bottom: 20px;
+}
+
+.card-header {
+  font-weight: bold;
+}
+
+.task-item {
+  border-left: 4px solid #0d6efd;
+  margin-bottom: 10px;
+  transition: all 0.3s ease;
+}
+
+.task-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.task-item.priority-High {
+  border-left-color: #dc3545;
+}
+
+.task-item.priority-Medium {
+  border-left-color: #ffc107;
+}
+
+.task-item.priority-Low {
+  border-left-color: #0d6efd;
+}
+
+.task-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.task-actions button {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+}
+
+.edit-form {
+  padding: 15px;
+  background-color: #f8f9fa;
+  border-radius: 0.25rem;
+  margin-top: 10px;
+}
+
+.user-display {
+  display: flex;
+  align-items: center;
+  color: white;
+  margin-right: 15px;
+}
+
+.user-display i {
+  margin-right: 5px;
+}
+
+footer {
+  margin-top: auto;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
