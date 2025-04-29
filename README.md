@@ -14,7 +14,7 @@
 ## User Story
 
 **As a** burnt out student,  
-**I want** to track my tasks my tasks,  
+**I want** to track my tasks,  
 **So that** I can stay more organized or get even more burnt out 🦭
 
 ## Narrative
