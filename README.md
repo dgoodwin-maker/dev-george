@@ -9,3 +9,4 @@
 - [jQuery Documentation](https://api.jquery.com/)
 - [jQuery UI Documentation](https://api.jqueryui.com/)
 - [Font Awesome Icons](https://fontawesome.com/icons)
+- [w3s Modal](https://www.w3schools.com/howto/howto_css_login_form.asp)
