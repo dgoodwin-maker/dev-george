@@ -33,5 +33,4 @@ $(document).ready(function () {
     "completed": true
   }
 ]
-  console.log(classFacts);
 }
